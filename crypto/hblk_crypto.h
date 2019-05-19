@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define SHA256_DIGEST_LENGTH 1000
+#define SHA256_DIGEST_LENGTH 64
 /* EC_KEY public key octet string length (using 256-bit curve) */
 # define EC_PUB_LEN 65
 /* Maximum signature octet string length (using 256-bit curve) */
